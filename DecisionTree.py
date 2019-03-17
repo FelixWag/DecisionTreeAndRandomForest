@@ -3,8 +3,8 @@ from collections import Counter
 import random
 
 def main():
-    test_file = sys.argv[2]
-    trainings_file = sys.argv[1]
+    test_file = "Data/" + sys.argv[2]
+    trainings_file = "Data/" + sys.argv[1]
 
     max_depth = 100
 
