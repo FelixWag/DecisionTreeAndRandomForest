@@ -1,7 +1,7 @@
 # DecisionTreeAndRandomForest
 Python3 implementation of Decision Tree and Random Forest (gini-index as the attribute selection measure) for classification
 
-Test and Training Files can be found in the data folder. In both implementations there are alreadey tuned hyperparamaters for every data set in the data folder.
+Test and Training Files can be found in the data folder. In both implementations there are already tuned hyperparamaters for every data set in the data folder.
 If new data sets are included, the hyperparamters have to be added to the implementations.
 
 Usage (DecisionTree):
